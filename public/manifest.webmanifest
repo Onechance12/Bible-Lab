@@ -1,0 +1,9 @@
+{
+  "name": "Bible Lab",
+  "short_name": "Bible Lab",
+  "description": "Learn how to understand Scripture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#16251f"
+}
